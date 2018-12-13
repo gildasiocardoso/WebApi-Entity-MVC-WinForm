@@ -1,4 +1,4 @@
-# WebApi-Entity-MVC-WinForm
+# WebApi - Entity Framework - MVC 5 Web Application - Windows Forms
 Web API Restfull, working with Json Format and Entity Framework. 
 In this example, I am showing how to create and consuming Web API in MVC  Web Application and Windows Forms Application
 
