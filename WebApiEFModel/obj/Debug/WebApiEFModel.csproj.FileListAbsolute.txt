@@ -1,0 +1,15 @@
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\bin\Debug\WebApiEFModel.dll.config
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\bin\Debug\WebApiEFModel.dll
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\bin\Debug\WebApiEFModel.pdb
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\bin\Debug\EntityFramework.dll
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\bin\Debug\Newtonsoft.Json.dll
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\bin\Debug\EntityFramework.xml
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\bin\Debug\Newtonsoft.Json.pdb
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\bin\Debug\Newtonsoft.Json.xml
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\obj\Debug\WebApiEFModel.csprojAssemblyReference.cache
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\obj\Debug\WebApiEFModel.csproj.CoreCompileInputs.cache
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\obj\Debug\WebApiEFModel.csproj.CopyComplete
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\obj\Debug\WebApiEFModel.dll
+D:\GILDASIO\Portfolio\WebApiEFProvidingConsuming\WebApiEFModel\obj\Debug\WebApiEFModel.pdb
